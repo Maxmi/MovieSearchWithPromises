@@ -1,0 +1,1 @@
+A node.js command line application for web scraping (imdb.com). Used node.js request-promise module and cheerio. To run a program type - node movie-search moviename

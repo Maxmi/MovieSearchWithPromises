@@ -1,0 +1,22 @@
+{
+  "name": "moviesearchcli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "movie-search.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "cheerio": "^1.0.0-rc.2",
+    "mocha": "^3.5.3",
+    "nock": "^9.0.21",
+    "request": "^2.82.0",
+    "request-promise": "^4.2.2"
+  },
+  "devDependencies": {
+    "sepia": "^2.0.2"
+  }
+}
